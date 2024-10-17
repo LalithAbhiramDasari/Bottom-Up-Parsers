@@ -5,21 +5,21 @@ Example to use use grammars and Strings for input
 Grammar:
 Eg 1:
 
-E -> E + T | T
-T -> T * F | F
-F -> ( E ) | id
+E -> E + T | T    
+T -> T * F | F    
+F -> ( E ) | id    
 
 Eg 2:
 
-E -> E + T | b A
-T -> T * F | F
-F -> ( E ) | id
-A -> a | &
+E -> E + T | b A   
+T -> T * F | F    
+F -> ( E ) | id   
+A -> a | &   
 
 Strings:
-id * id
-b a
-a b b b a a
+id * id   
+b a   
+a b b b a a     
 
 Note: 
 1) Give spaces while entering Grammar and Strings as shown in above examples. If space not given, the parser consider the whole characters as single terminal.( Eg 'id')
