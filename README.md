@@ -16,7 +16,7 @@ T -> T * F | F
 F -> ( E ) | id   
 A -> a | &   
 
-Strings:
+Strings:    
 id * id   
 b a   
 a b b b a a     
