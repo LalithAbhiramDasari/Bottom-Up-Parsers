@@ -1,9 +1,9 @@
 # Bottom-Up-Parsers
-The Above Files Provides the Implementation of LR(0), LR(1), SLR and LALR parsers.
+The Above Files Provides the Implementation of LR(0), LR(1), SLR and LALR parsers.   
 
-Example to use use grammars and Strings for input
-Grammar:
-Eg 1:
+Example to use use grammars and Strings for input.    
+Grammar:    
+Eg 1:    
 
 E -> E + T | T    
 T -> T * F | F    
