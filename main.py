@@ -124,11 +124,11 @@ class Ui_MainWindow(object):
         self.pushButton_2.setText(_translate("MainWindow", "SLR"))
         self.pushButton_3.setText(_translate("MainWindow", "LR(1)"))
         self.pushButton_4.setText(_translate("MainWindow", "LALR"))
-        self.label_2.setText(_translate("MainWindow", "Team D-18"))
-        self.label_3.setText(_translate("MainWindow", "Jetty Sowmith                                BL.EN.U4AIE21060"))
-        self.label_4.setText(_translate("MainWindow", "Kasa Anirudh                                BL.EN.U4AIE21066"))
-        self.label_5.setText(_translate("MainWindow", "Lalith Abhiram Dasari                 BL.EN.U4AIE21071"))
-        self.label_6.setText(_translate("MainWindow", "Mamidi Naveen Krishna              BL.EN.U4AIE21076"))
+        # self.label_2.setText(_translate("MainWindow", "Team D-18"))
+        # self.label_3.setText(_translate("MainWindow", "Jetty Sowmith                                BL.EN.U4AIE21060"))
+        # self.label_4.setText(_translate("MainWindow", "Kasa Anirudh                                BL.EN.U4AIE21066"))
+        # self.label_5.setText(_translate("MainWindow", "Lalith Abhiram Dasari                 BL.EN.U4AIE21071"))
+        # self.label_6.setText(_translate("MainWindow", "Mamidi Naveen Krishna              BL.EN.U4AIE21076"))
         
         
     def open_LR0_file(self):
